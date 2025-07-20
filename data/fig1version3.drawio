@@ -1,14 +1,14 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="28.0.6">
   <diagram name="第 1 页" id="3_IjtahEqF5f6_h6dhQM">
-    <mxGraphModel dx="328" dy="228" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="276" dy="192" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="q-1dDg8Za3zNrtGVE4Yi-31" value="&lt;b&gt;(a) Backdoor attack pipeline for lipreading&amp;nbsp; models&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="q-1dDg8Za3zNrtGVE4Yi-31" value="&lt;b&gt;(a) Backdoor attack pipeline for lipreading models&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="217" y="220" width="299" height="14" as="geometry" />
         </mxCell>
         <mxCell id="q-1dDg8Za3zNrtGVE4Yi-32" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;editableCssRules=.*;image=data:image/svg+xml,PHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBoZWlnaHQ9IjE3NC40NTMxMzkzMDUxMTQ3NSIgd2lkdGg9IjE1My4zMjAzMTI1IiB2ZXJzaW9uPSIxLjEiIHZpZXdCb3g9IjExOS41MDAwMDc2MjkzOTQ1MyA2NS42MDAwMDYxMDM1MTU2MiA3ODUgODkzLjIwMDA3MzI0MjE4NzUiIGNsYXNzPSJpY29uIj48cGF0aCBmaWxsPSIjMzMzMzMzIiBkPSJNOTA0LjUgNjA0LjZjMC0yLjgtMC4xLTUuNy0wLjQtOC42VjIzNS43aC0wLjR2LTAuOWMwLTE5LjgtNy00OS41LTQwLjEtNzguOC0yMS4yLTE4LjgtNTAuNy0zNS4zLTg3LjYtNDkuMS03MS4yLTI2LjYtMTY1LjEtNDEuMy0yNjQuNC00MS4zcy0xOTMuMiAxNC43LTI2NC40IDQxLjNjLTM2LjggMTMuOC02Ni4zIDMwLjMtODcuNiA0OS4xLTMzLjIgMjkuMy00MC4xIDU5LTQwLjEgNzguOCAwIDIuOSAwLjEgNS43IDAuNCA4LjZ2MTcxLjhjLTAuMSAxLjQtMC4xIDIuOC0wLjEgNC4yIDAgMS40IDAgMi45IDAuMSA0LjJWNzkwYzAuMSAxOS44IDcuMiA0OS4zIDQwLjEgNzguNCAyMS4yIDE4LjggNTAuNyAzNS4zIDg3LjYgNDkuMSA3MS4yIDI2LjYgMTY1LjEgNDEuMyAyNjQuNCA0MS4zczE5My4yLTE0LjcgMjY0LjQtNDEuM2MzNi44LTEzLjggNjYuMy0zMC4zIDg3LjYtNDkuMSAzMi45LTI5LjEgNDAtNTguNiA0MC4xLTc4LjRWNjEzLjJjMC4zLTIuOSAwLjQtNS44IDAuNC04LjZ6TTE5MS45IDMzNi44YzE0IDguMyAzMC42IDE2LjQgNTAuMyAyNEMzMTQgMzg4LjYgNDA5LjYgNDA0IDUxMS42IDQwNGMxMDIgMCAxOTcuOC0xNS40IDI2OS42LTQzLjMgMTkuMS03LjQgMzYuMS0xNS42IDUwLjktMjQuNXY4My4yYzAgMTQuNS0yMy44IDM4LjQtNzYuOSA1OUM2OTIuMyA1MDMgNjAzLjUgNTE3IDUxMS42IDUxN2MtOTEuOCAwLTE4MC41LTE0LTI0My4yLTM4LjUtNTAuNy0xOS44LTc0LjctNDIuOC03Ni40LTU3LjN2LTg0LjR6IG0xNS40LTEyNi45YzE0LjQtMTIuNyAzNi45LTI1IDY1LjEtMzUuNiA2My4zLTIzLjcgMTQ4LjMtMzYuNyAyMzkuMi0zNi43czE3NS45IDEzIDIzOS4yIDM2LjdjMjguMiAxMC41IDUwLjcgMjIuOCA2NS4xIDM1LjYgNS44IDUuMiAxNS42IDE1LjIgMTUuOCAyNC42djAuNWMtMC4yIDE0LjQtMjQgMzguMS03Ni41IDU4LjVDNjkyLjMgMzE4IDYwMy41IDMzMiA1MTEuNiAzMzJTMzMxIDMxOCAyNjguMiAyOTMuN2MtNTEuNy0yMC03My4yLTQxLjktNzYuMy01NS4zdi0yLjdoLTAuNHYtMC45YzAtOS40IDkuOS0xOS42IDE1LjgtMjQuOXogbS0xNS40IDMxMS41YzE0LjcgOC43IDMxLjUgMTYuOCA1MC4zIDI0LjIgNzEuOCAyOCAxNjcuNSA0My40IDI2OS40IDQzLjQgMTAyIDAgMTk3LjctMTUuNCAyNjkuNy00My40IDE5LTcuNCAzNi0xNS42IDUwLjgtMjQuNHY4Ni45Yy0zLjEgMTMuNC0yNC44IDM1LjMtNzYuOCA1NS40LTYzIDI0LjMtMTUxLjggMzguMy0yNDMuNyAzOC4zLTkxLjYgMC0xODAuMS0xNC0yNDIuNy0zOC4zLTUzLjEtMjAuNi03Ni45LTQ0LjYtNzYuOS01OS4ydi04Mi45eiBtNjI0LjQgMjkzYy0xNC40IDEyLjctMzYuOSAyNS02NS4xIDM1LjYtNjMuMyAyMy43LTE0OC4zIDM2LjctMjM5LjIgMzYuNy05MC45IDAtMTc1LjktMTMtMjM5LjItMzYuNy0yOC4yLTEwLjUtNTAuNy0yMi44LTY1LjEtMzUuNi01LjktNS4yLTE1LjgtMTUuNC0xNS44LTI0Ljl2LTgzLjNjMTQuOCA4LjggMzEuOCAxNyA1MC44IDI0LjQgNzEuNyAyNy45IDE2Ny4yIDQzLjIgMjY4LjggNDMuMiAxMDEuOSAwIDE5Ny43LTE1LjMgMjY5LjctNDMuMSAxOS45LTcuNyAzNi43LTE1LjkgNTAuOS0yNC4ydjgzLjFjMCA5LjQtOS45IDE5LjYtMTUuOCAyNC44eiIvPjxwYXRoIGZpbGw9IiMzMzMzMzMiIGQ9Ik03MzEuNTIxMDg1IDQyOS43ODIxOGEzMS4yIDMxLjIgMCAxIDAgNjEuNTk1MDM4LTkuOTkwNTYyIDMxLjIgMzEuMiAwIDEgMC02MS41OTUwMzggOS45OTA1NjJaIi8+PHBhdGggZmlsbD0iIzMzMzMzMyIgZD0iTTc2Mi43IDYwNi41bS0zMS4yIDBhMzEuMiAzMS4yIDAgMSAwIDYyLjQgMCAzMS4yIDMxLjIgMCAxIDAtNjIuNCAwWiIvPjxwYXRoIGZpbGw9IiMzMzMzMzMiIGQ9Ik03NjIuNyA3OTMuOW0tMzEuMiAwYTMxLjIgMzEuMiAwIDEgMCA2Mi40IDAgMzEuMiAzMS4yIDAgMSAwLTYyLjQgMFoiLz48L3N2Zz4=;" vertex="1" parent="1">
-          <mxGeometry x="226" y="254" width="29.89" height="34" as="geometry" />
+          <mxGeometry x="227.11" y="254" width="29.89" height="34" as="geometry" />
         </mxCell>
         <mxCell id="q-1dDg8Za3zNrtGVE4Yi-33" value="&lt;font style=&quot;font-size: 8px;&quot; face=&quot;Times New Roman&quot;&gt;Clean dataset&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="237" width="85" height="14" as="geometry" />
@@ -45,12 +45,24 @@
         </mxCell>
         <mxCell id="q-1dDg8Za3zNrtGVE4Yi-43" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="445" y="275" as="sourcePoint" />
-            <mxPoint x="493" y="275" as="targetPoint" />
+            <mxPoint x="447" y="274" as="sourcePoint" />
+            <mxPoint x="495" y="274" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="q-1dDg8Za3zNrtGVE4Yi-44" value="&lt;font style=&quot;font-size: 8px;&quot; face=&quot;Times New Roman&quot;&gt;Reasoning&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="437" y="260" width="55" height="12" as="geometry" />
+          <mxGeometry x="440" y="259" width="55" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="q-1dDg8Za3zNrtGVE4Yi-49" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Normal output text&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="496" y="254" width="63" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="q-1dDg8Za3zNrtGVE4Yi-50" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="496" y="281" width="63" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="q-1dDg8Za3zNrtGVE4Yi-52" value="&lt;font style=&quot;font-size: 8px;&quot; face=&quot;Times New Roman&quot;&gt;Reasoning with clean samples&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="478" y="239" width="104" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="q-1dDg8Za3zNrtGVE4Yi-53" value="&lt;font style=&quot;font-size: 8px;&quot; face=&quot;Times New Roman&quot;&gt;Reasoning with clean samples&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="292" width="104" height="12" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
