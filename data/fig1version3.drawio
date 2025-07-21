@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="28.0.6">
   <diagram name="第 1 页" id="3_IjtahEqF5f6_h6dhQM">
-    <mxGraphModel dx="337" dy="267" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="481" dy="380" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -159,6 +159,9 @@
         </mxCell>
         <mxCell id="q-1dDg8Za3zNrtGVE4Yi-89" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;&lt;b&gt;Easily noticeable attack&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="538" y="325" width="79" height="7" as="geometry" />
+        </mxCell>
+        <mxCell id="q-1dDg8Za3zNrtGVE4Yi-90" value="&lt;b&gt;(c) Backdoor attack pipeline for lipreading models&lt;/b&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="212" y="392" width="299" height="14" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
